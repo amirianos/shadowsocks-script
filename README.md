@@ -1,4 +1,4 @@
-# shadowsocks-shell
+# Shadowsocks script
 First of all, we must have a server that has access to the not censored internet
 1. clone this repository on that server with command below:
 `git clone https://github.com/amirianos/shadowsocks-shell` </br>
